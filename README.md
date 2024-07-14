@@ -1,8 +1,6 @@
 # Omnidirectional Robot Control with PS4 Controller
 
-![Robot]([https://github.com/mike37510/OmnidirectionalRobot/blob/main/441923482_1240270057137076_4083910107694568531_n.jpg)
 ![Robot](https://github.com/mike37510/OmnidirectionalRobot/blob/main/448396422_1244862013344547_5515443539340075409_n.jpg)
-
 
 ## Introduction
 Brief overview of the project and its objectives.
@@ -79,6 +77,7 @@ Links to external resources, such as:
 
 ## Conclusion
 Final thoughts on the project and encouragement for further exploration.
+More informations : https://www.borninthe80s.fr/2024/06/29/conception-de-mon-robot-a-roues-omnidirectionnels/ and https://www.borninthe80s.fr/2024/07/14/conception-de-mon-robot-a-roues-omnidirectionnels-partie-2/
 
 ## Support
 Instructions for seeking help or contributing to the project.
