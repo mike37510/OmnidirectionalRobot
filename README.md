@@ -1,5 +1,9 @@
 # Omnidirectional Robot Control with PS4 Controller
 
+![Robot]([https://github.com/mike37510/OmnidirectionalRobot/blob/main/441923482_1240270057137076_4083910107694568531_n.jpg)
+![Robot](https://github.com/mike37510/OmnidirectionalRobot/blob/main/448396422_1244862013344547_5515443539340075409_n.jpg)
+
+
 ## Introduction
 Brief overview of the project and its objectives.
 
