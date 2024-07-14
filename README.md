@@ -85,5 +85,4 @@ Instructions for seeking help or contributing to the project.
 - Issues: Report any bugs or problems.
 - Pull Requests: Submit improvements or new features.
 
-## License
-Information about the project's licensing.
+
